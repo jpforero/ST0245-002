@@ -4,6 +4,9 @@ from shapely import wkt
 import networkx as nx
 import pydeck as pdk
 
+#Profe intentamos hacer el codigo para las 3 rutas pero hay un problema que dibuja unicamente una, igual ahi dejo comentado lo demas
+#___________________________________________________________________________________________________________________________________
+
 
 
 # Recoge los datos de las calles con su riesgo de acoso
